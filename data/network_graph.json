@@ -1,0 +1,778 @@
+{
+  "nodes": [
+    {
+      "id": "CZEPIEC",
+      "centrality": {
+        "degree": 0.4857142857142857,
+        "betweenness": 0.17163940387618096,
+        "closeness": 0.6140350877192983,
+        "eigenvector": 0.3018041965092505
+      }
+    },
+    {
+      "id": "DZIENNIKARZ",
+      "centrality": {
+        "degree": 0.14285714285714285,
+        "betweenness": 0.060376778162245306,
+        "closeness": 0.4430379746835443,
+        "eigenvector": 0.08987592618234216
+      }
+    },
+    {
+      "id": "ZOSIA",
+      "centrality": {
+        "degree": 0.34285714285714286,
+        "betweenness": 0.026776164462768513,
+        "closeness": 0.5645161290322581,
+        "eigenvector": 0.2756182612692193
+      }
+    },
+    {
+      "id": "HANECZKA",
+      "centrality": {
+        "degree": 0.34285714285714286,
+        "betweenness": 0.03897704481490938,
+        "closeness": 0.5645161290322581,
+        "eigenvector": 0.2749765098897613
+      }
+    },
+    {
+      "id": "RADCZYNI",
+      "centrality": {
+        "degree": 0.19999999999999998,
+        "betweenness": 0.07460030165912519,
+        "closeness": 0.47297297297297297,
+        "eigenvector": 0.11655117164611478
+      }
+    },
+    {
+      "id": "KLIMINA",
+      "centrality": {
+        "degree": 0.02857142857142857,
+        "betweenness": 0.0,
+        "closeness": 0.32407407407407407,
+        "eigenvector": 0.010482106781689326
+      }
+    },
+    {
+      "id": "KASPER",
+      "centrality": {
+        "degree": 0.37142857142857144,
+        "betweenness": 0.054529196293902175,
+        "closeness": 0.5645161290322581,
+        "eigenvector": 0.282720351026341
+      }
+    },
+    {
+      "id": "JASIEK",
+      "centrality": {
+        "degree": 0.14285714285714285,
+        "betweenness": 0.046889371133068604,
+        "closeness": 0.4117647058823529,
+        "eigenvector": 0.08209955870778045
+      }
+    },
+    {
+      "id": "PANNA M\u0141ODA",
+      "centrality": {
+        "degree": 0.39999999999999997,
+        "betweenness": 0.1396131001420176,
+        "closeness": 0.5932203389830508,
+        "eigenvector": 0.29408388002920594
+      }
+    },
+    {
+      "id": "PAN M\u0141ODY",
+      "centrality": {
+        "degree": 0.5142857142857142,
+        "betweenness": 0.20740421658859626,
+        "closeness": 0.625,
+        "eigenvector": 0.3136853703992226
+      }
+    },
+    {
+      "id": "KSI\u0104DZ",
+      "centrality": {
+        "degree": 0.14285714285714285,
+        "betweenness": 0.003115913031879419,
+        "closeness": 0.4666666666666667,
+        "eigenvector": 0.1155929914126317
+      }
+    },
+    {
+      "id": "MARYNA",
+      "centrality": {
+        "degree": 0.05714285714285714,
+        "betweenness": 0.0013181743285549516,
+        "closeness": 0.39325842696629215,
+        "eigenvector": 0.03721804530779744
+      }
+    },
+    {
+      "id": "POETA",
+      "centrality": {
+        "degree": 0.45714285714285713,
+        "betweenness": 0.1542654346806596,
+        "closeness": 0.5932203389830508,
+        "eigenvector": 0.29727876897181177
+      }
+    },
+    {
+      "id": "\u017bYD",
+      "centrality": {
+        "degree": 0.14285714285714285,
+        "betweenness": 0.005098039215686274,
+        "closeness": 0.4375,
+        "eigenvector": 0.07770971729575764
+      }
+    },
+    {
+      "id": "RACHEL",
+      "centrality": {
+        "degree": 0.08571428571428572,
+        "betweenness": 0.0015406162464985994,
+        "closeness": 0.42168674698795183,
+        "eigenvector": 0.06193661206002564
+      }
+    },
+    {
+      "id": "GOSPODARZ",
+      "centrality": {
+        "degree": 0.42857142857142855,
+        "betweenness": 0.10449777195946251,
+        "closeness": 0.5833333333333334,
+        "eigenvector": 0.2979987699472547
+      }
+    },
+    {
+      "id": "OJCIEC",
+      "centrality": {
+        "degree": 0.14285714285714285,
+        "betweenness": 0.044074963318660794,
+        "closeness": 0.47297297297297297,
+        "eigenvector": 0.09022790471342179
+      }
+    },
+    {
+      "id": "DZIAD",
+      "centrality": {
+        "degree": 0.14285714285714285,
+        "betweenness": 0.060449826989619385,
+        "closeness": 0.45454545454545453,
+        "eigenvector": 0.0710331642988074
+      }
+    },
+    {
+      "id": "GOSPODYNI",
+      "centrality": {
+        "degree": 0.37142857142857144,
+        "betweenness": 0.08453853336206278,
+        "closeness": 0.5645161290322581,
+        "eigenvector": 0.27847448148945286
+      }
+    },
+    {
+      "id": "ISIA",
+      "centrality": {
+        "degree": 0.05714285714285714,
+        "betweenness": 0.012064210299504413,
+        "closeness": 0.3763440860215054,
+        "eigenvector": 0.025918347992758852
+      }
+    },
+    {
+      "id": "CHOCHO\u0141",
+      "centrality": {
+        "degree": 0.05714285714285714,
+        "betweenness": 0.002240896358543417,
+        "closeness": 0.30434782608695654,
+        "eigenvector": 0.00971452953699419
+      }
+    },
+    {
+      "id": "MARYSIA",
+      "centrality": {
+        "degree": 0.11428571428571428,
+        "betweenness": 0.11322293623331688,
+        "closeness": 0.4117647058823529,
+        "eigenvector": 0.035131751033046596
+      }
+    },
+    {
+      "id": "WOJTEK",
+      "centrality": {
+        "degree": 0.02857142857142857,
+        "betweenness": 0.0,
+        "closeness": 0.29411764705882354,
+        "eigenvector": 0.00315963454932812
+      }
+    },
+    {
+      "id": "WIDMO",
+      "centrality": {
+        "degree": 0.02857142857142857,
+        "betweenness": 0.0,
+        "closeness": 0.29411764705882354,
+        "eigenvector": 0.00315963454932812
+      }
+    },
+    {
+      "id": "STA\u0143CZYK",
+      "centrality": {
+        "degree": 0.02857142857142857,
+        "betweenness": 0.0,
+        "closeness": 0.30973451327433627,
+        "eigenvector": 0.00808307521713035
+      }
+    },
+    {
+      "id": "RYCERZ",
+      "centrality": {
+        "degree": 0.02857142857142857,
+        "betweenness": 0.0,
+        "closeness": 0.3763440860215054,
+        "eigenvector": 0.02673593852638356
+      }
+    },
+    {
+      "id": "CH\u00d3R",
+      "centrality": {
+        "degree": 0.05714285714285714,
+        "betweenness": 0.0,
+        "closeness": 0.39325842696629215,
+        "eigenvector": 0.030999620037583504
+      }
+    },
+    {
+      "id": "HETMAN",
+      "centrality": {
+        "degree": 0.05714285714285714,
+        "betweenness": 0.0,
+        "closeness": 0.39325842696629215,
+        "eigenvector": 0.030999620037583504
+      }
+    },
+    {
+      "id": "UPI\u00d3R",
+      "centrality": {
+        "degree": 0.02857142857142857,
+        "betweenness": 0.0,
+        "closeness": 0.3153153153153153,
+        "eigenvector": 0.006388603530961838
+      }
+    },
+    {
+      "id": "KASIA",
+      "centrality": {
+        "degree": 0.08571428571428572,
+        "betweenness": 0.000980392156862745,
+        "closeness": 0.3763440860215054,
+        "eigenvector": 0.047463850251082886
+      }
+    },
+    {
+      "id": "NOS",
+      "centrality": {
+        "degree": 0.19999999999999998,
+        "betweenness": 0.016996798719487796,
+        "closeness": 0.5,
+        "eigenvector": 0.16293663236759867
+      }
+    },
+    {
+      "id": "KUBA",
+      "centrality": {
+        "degree": 0.2857142857142857,
+        "betweenness": 0.0,
+        "closeness": 0.5303030303030303,
+        "eigenvector": 0.2585849866791442
+      }
+    },
+    {
+      "id": "WERNYHORA",
+      "centrality": {
+        "degree": 0.02857142857142857,
+        "betweenness": 0.0,
+        "closeness": 0.3723404255319149,
+        "eigenvector": 0.026800666425504795
+      }
+    },
+    {
+      "id": "STASZEK",
+      "centrality": {
+        "degree": 0.2857142857142857,
+        "betweenness": 0.0,
+        "closeness": 0.5303030303030303,
+        "eigenvector": 0.2585849866791442
+      }
+    },
+    {
+      "id": "MUZYKANT",
+      "centrality": {
+        "degree": 0.02857142857142857,
+        "betweenness": 0.0,
+        "closeness": 0.38461538461538464,
+        "eigenvector": 0.027143061682345242
+      }
+    },
+    {
+      "id": "CZEPCOWA",
+      "centrality": {
+        "degree": 0.05714285714285714,
+        "betweenness": 0.0,
+        "closeness": 0.40229885057471265,
+        "eigenvector": 0.052187764021927
+      }
+    }
+  ],
+  "links": [
+    {
+      "source": "CZEPIEC",
+      "target": "DZIENNIKARZ"
+    },
+    {
+      "source": "CZEPIEC",
+      "target": "GOSPODARZ"
+    },
+    {
+      "source": "CZEPIEC",
+      "target": "OJCIEC"
+    },
+    {
+      "source": "CZEPIEC",
+      "target": "POETA"
+    },
+    {
+      "source": "CZEPIEC",
+      "target": "\u017bYD"
+    },
+    {
+      "source": "CZEPIEC",
+      "target": "KSI\u0104DZ"
+    },
+    {
+      "source": "CZEPIEC",
+      "target": "MUZYKANT"
+    },
+    {
+      "source": "CZEPIEC",
+      "target": "CZEPCOWA"
+    },
+    {
+      "source": "CZEPIEC",
+      "target": "KUBA"
+    },
+    {
+      "source": "CZEPIEC",
+      "target": "DZIAD"
+    },
+    {
+      "source": "CZEPIEC",
+      "target": "GOSPODYNI"
+    },
+    {
+      "source": "CZEPIEC",
+      "target": "PAN M\u0141ODY"
+    },
+    {
+      "source": "CZEPIEC",
+      "target": "KASPER"
+    },
+    {
+      "source": "CZEPIEC",
+      "target": "STASZEK"
+    },
+    {
+      "source": "CZEPIEC",
+      "target": "PANNA M\u0141ODA"
+    },
+    {
+      "source": "CZEPIEC",
+      "target": "HANECZKA"
+    },
+    {
+      "source": "CZEPIEC",
+      "target": "ZOSIA"
+    },
+    {
+      "source": "DZIENNIKARZ",
+      "target": "ZOSIA"
+    },
+    {
+      "source": "DZIENNIKARZ",
+      "target": "STA\u0143CZYK"
+    },
+    {
+      "source": "DZIENNIKARZ",
+      "target": "POETA"
+    },
+    {
+      "source": "DZIENNIKARZ",
+      "target": "RADCZYNI"
+    },
+    {
+      "source": "ZOSIA",
+      "target": "HANECZKA"
+    },
+    {
+      "source": "ZOSIA",
+      "target": "RADCZYNI"
+    },
+    {
+      "source": "ZOSIA",
+      "target": "KASPER"
+    },
+    {
+      "source": "ZOSIA",
+      "target": "GOSPODARZ"
+    },
+    {
+      "source": "ZOSIA",
+      "target": "STASZEK"
+    },
+    {
+      "source": "ZOSIA",
+      "target": "PANNA M\u0141ODA"
+    },
+    {
+      "source": "ZOSIA",
+      "target": "GOSPODYNI"
+    },
+    {
+      "source": "ZOSIA",
+      "target": "PAN M\u0141ODY"
+    },
+    {
+      "source": "ZOSIA",
+      "target": "KUBA"
+    },
+    {
+      "source": "ZOSIA",
+      "target": "POETA"
+    },
+    {
+      "source": "HANECZKA",
+      "target": "RADCZYNI"
+    },
+    {
+      "source": "HANECZKA",
+      "target": "JASIEK"
+    },
+    {
+      "source": "HANECZKA",
+      "target": "PAN M\u0141ODY"
+    },
+    {
+      "source": "HANECZKA",
+      "target": "GOSPODARZ"
+    },
+    {
+      "source": "HANECZKA",
+      "target": "KASPER"
+    },
+    {
+      "source": "HANECZKA",
+      "target": "STASZEK"
+    },
+    {
+      "source": "HANECZKA",
+      "target": "PANNA M\u0141ODA"
+    },
+    {
+      "source": "HANECZKA",
+      "target": "GOSPODYNI"
+    },
+    {
+      "source": "HANECZKA",
+      "target": "KUBA"
+    },
+    {
+      "source": "HANECZKA",
+      "target": "POETA"
+    },
+    {
+      "source": "RADCZYNI",
+      "target": "KLIMINA"
+    },
+    {
+      "source": "RADCZYNI",
+      "target": "MARYNA"
+    },
+    {
+      "source": "RADCZYNI",
+      "target": "PAN M\u0141ODY"
+    },
+    {
+      "source": "RADCZYNI",
+      "target": "PANNA M\u0141ODA"
+    },
+    {
+      "source": "KASPER",
+      "target": "JASIEK"
+    },
+    {
+      "source": "KASPER",
+      "target": "KASIA"
+    },
+    {
+      "source": "KASPER",
+      "target": "NOS"
+    },
+    {
+      "source": "KASPER",
+      "target": "PAN M\u0141ODY"
+    },
+    {
+      "source": "KASPER",
+      "target": "PANNA M\u0141ODA"
+    },
+    {
+      "source": "KASPER",
+      "target": "GOSPODYNI"
+    },
+    {
+      "source": "KASPER",
+      "target": "GOSPODARZ"
+    },
+    {
+      "source": "KASPER",
+      "target": "STASZEK"
+    },
+    {
+      "source": "KASPER",
+      "target": "KUBA"
+    },
+    {
+      "source": "KASPER",
+      "target": "POETA"
+    },
+    {
+      "source": "JASIEK",
+      "target": "KASIA"
+    },
+    {
+      "source": "JASIEK",
+      "target": "GOSPODARZ"
+    },
+    {
+      "source": "JASIEK",
+      "target": "CHOCHO\u0141"
+    },
+    {
+      "source": "PANNA M\u0141ODA",
+      "target": "PAN M\u0141ODY"
+    },
+    {
+      "source": "PANNA M\u0141ODA",
+      "target": "KSI\u0104DZ"
+    },
+    {
+      "source": "PANNA M\u0141ODA",
+      "target": "POETA"
+    },
+    {
+      "source": "PANNA M\u0141ODA",
+      "target": "GOSPODARZ"
+    },
+    {
+      "source": "PANNA M\u0141ODA",
+      "target": "NOS"
+    },
+    {
+      "source": "PANNA M\u0141ODA",
+      "target": "GOSPODYNI"
+    },
+    {
+      "source": "PANNA M\u0141ODA",
+      "target": "MARYSIA"
+    },
+    {
+      "source": "PANNA M\u0141ODA",
+      "target": "STASZEK"
+    },
+    {
+      "source": "PANNA M\u0141ODA",
+      "target": "KUBA"
+    },
+    {
+      "source": "PAN M\u0141ODY",
+      "target": "KSI\u0104DZ"
+    },
+    {
+      "source": "PAN M\u0141ODY",
+      "target": "\u017bYD"
+    },
+    {
+      "source": "PAN M\u0141ODY",
+      "target": "RACHEL"
+    },
+    {
+      "source": "PAN M\u0141ODY",
+      "target": "POETA"
+    },
+    {
+      "source": "PAN M\u0141ODY",
+      "target": "GOSPODARZ"
+    },
+    {
+      "source": "PAN M\u0141ODY",
+      "target": "CH\u00d3R"
+    },
+    {
+      "source": "PAN M\u0141ODY",
+      "target": "HETMAN"
+    },
+    {
+      "source": "PAN M\u0141ODY",
+      "target": "DZIAD"
+    },
+    {
+      "source": "PAN M\u0141ODY",
+      "target": "NOS"
+    },
+    {
+      "source": "PAN M\u0141ODY",
+      "target": "GOSPODYNI"
+    },
+    {
+      "source": "PAN M\u0141ODY",
+      "target": "STASZEK"
+    },
+    {
+      "source": "PAN M\u0141ODY",
+      "target": "KUBA"
+    },
+    {
+      "source": "KSI\u0104DZ",
+      "target": "\u017bYD"
+    },
+    {
+      "source": "KSI\u0104DZ",
+      "target": "GOSPODARZ"
+    },
+    {
+      "source": "MARYNA",
+      "target": "POETA"
+    },
+    {
+      "source": "POETA",
+      "target": "RACHEL"
+    },
+    {
+      "source": "POETA",
+      "target": "GOSPODARZ"
+    },
+    {
+      "source": "POETA",
+      "target": "OJCIEC"
+    },
+    {
+      "source": "POETA",
+      "target": "RYCERZ"
+    },
+    {
+      "source": "POETA",
+      "target": "NOS"
+    },
+    {
+      "source": "POETA",
+      "target": "GOSPODYNI"
+    },
+    {
+      "source": "POETA",
+      "target": "STASZEK"
+    },
+    {
+      "source": "POETA",
+      "target": "KUBA"
+    },
+    {
+      "source": "\u017bYD",
+      "target": "RACHEL"
+    },
+    {
+      "source": "\u017bYD",
+      "target": "DZIAD"
+    },
+    {
+      "source": "GOSPODARZ",
+      "target": "OJCIEC"
+    },
+    {
+      "source": "GOSPODARZ",
+      "target": "KUBA"
+    },
+    {
+      "source": "GOSPODARZ",
+      "target": "GOSPODYNI"
+    },
+    {
+      "source": "GOSPODARZ",
+      "target": "WERNYHORA"
+    },
+    {
+      "source": "GOSPODARZ",
+      "target": "STASZEK"
+    },
+    {
+      "source": "GOSPODARZ",
+      "target": "NOS"
+    },
+    {
+      "source": "OJCIEC",
+      "target": "DZIAD"
+    },
+    {
+      "source": "OJCIEC",
+      "target": "MARYSIA"
+    },
+    {
+      "source": "DZIAD",
+      "target": "UPI\u00d3R"
+    },
+    {
+      "source": "GOSPODYNI",
+      "target": "ISIA"
+    },
+    {
+      "source": "GOSPODYNI",
+      "target": "NOS"
+    },
+    {
+      "source": "GOSPODYNI",
+      "target": "CZEPCOWA"
+    },
+    {
+      "source": "GOSPODYNI",
+      "target": "STASZEK"
+    },
+    {
+      "source": "GOSPODYNI",
+      "target": "KUBA"
+    },
+    {
+      "source": "ISIA",
+      "target": "CHOCHO\u0141"
+    },
+    {
+      "source": "MARYSIA",
+      "target": "WOJTEK"
+    },
+    {
+      "source": "MARYSIA",
+      "target": "WIDMO"
+    },
+    {
+      "source": "CH\u00d3R",
+      "target": "HETMAN"
+    },
+    {
+      "source": "KASIA",
+      "target": "NOS"
+    },
+    {
+      "source": "KUBA",
+      "target": "STASZEK"
+    }
+  ]
+}

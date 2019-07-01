@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.3</creator>
+      <lastmodified>01/07/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="CZEPIEC" label="CZEPIEC" />
+      <node id="DZIENNIKARZ" label="DZIENNIKARZ" />
+      <node id="ZOSIA" label="ZOSIA" />
+      <node id="HANECZKA" label="HANECZKA" />
+      <node id="RADCZYNI" label="RADCZYNI" />
+      <node id="KLIMINA" label="KLIMINA" />
+      <node id="KASPER" label="KASPER" />
+      <node id="JASIEK" label="JASIEK" />
+      <node id="PANNA MŁODA" label="PANNA MŁODA" />
+      <node id="PAN MŁODY" label="PAN MŁODY" />
+      <node id="KSIĄDZ" label="KSIĄDZ" />
+      <node id="MARYNA" label="MARYNA" />
+      <node id="POETA" label="POETA" />
+      <node id="ŻYD" label="ŻYD" />
+      <node id="RACHEL" label="RACHEL" />
+      <node id="GOSPODARZ" label="GOSPODARZ" />
+      <node id="OJCIEC" label="OJCIEC" />
+      <node id="DZIAD" label="DZIAD" />
+      <node id="GOSPODYNI" label="GOSPODYNI" />
+      <node id="ISIA" label="ISIA" />
+      <node id="CHOCHOŁ" label="CHOCHOŁ" />
+      <node id="MARYSIA" label="MARYSIA" />
+      <node id="WOJTEK" label="WOJTEK" />
+      <node id="WIDMO" label="WIDMO" />
+      <node id="STAŃCZYK" label="STAŃCZYK" />
+      <node id="RYCERZ" label="RYCERZ" />
+      <node id="CHÓR" label="CHÓR" />
+      <node id="HETMAN" label="HETMAN" />
+      <node id="UPIÓR" label="UPIÓR" />
+      <node id="KASIA" label="KASIA" />
+      <node id="NOS" label="NOS" />
+      <node id="KUBA" label="KUBA" />
+      <node id="WERNYHORA" label="WERNYHORA" />
+      <node id="STASZEK" label="STASZEK" />
+      <node id="MUZYKANT" label="MUZYKANT" />
+      <node id="CZEPCOWA" label="CZEPCOWA" />
+    </nodes>
+    <edges>
+      <edge id="0" source="CZEPIEC" target="DZIENNIKARZ" weight="3" />
+      <edge id="1" source="CZEPIEC" target="GOSPODARZ" weight="21" />
+      <edge id="2" source="CZEPIEC" target="OJCIEC" weight="3" />
+      <edge id="3" source="CZEPIEC" target="POETA" weight="18" />
+      <edge id="4" source="CZEPIEC" target="ŻYD" weight="3" />
+      <edge id="5" source="CZEPIEC" target="KSIĄDZ" weight="3" />
+      <edge id="6" source="CZEPIEC" target="MUZYKANT" weight="3" />
+      <edge id="7" source="CZEPIEC" target="CZEPCOWA" weight="3" />
+      <edge id="8" source="CZEPIEC" target="KUBA" weight="6" />
+      <edge id="9" source="CZEPIEC" target="DZIAD" weight="3" />
+      <edge id="10" source="CZEPIEC" target="GOSPODYNI" weight="9" />
+      <edge id="11" source="CZEPIEC" target="PAN MŁODY" weight="18" />
+      <edge id="12" source="CZEPIEC" target="KASPER" weight="3" />
+      <edge id="13" source="CZEPIEC" target="STASZEK" weight="3" />
+      <edge id="14" source="CZEPIEC" target="PANNA MŁODA" weight="3" />
+      <edge id="15" source="CZEPIEC" target="HANECZKA" weight="3" />
+      <edge id="16" source="CZEPIEC" target="ZOSIA" weight="3" />
+      <edge id="17" source="DZIENNIKARZ" target="ZOSIA" weight="6" />
+      <edge id="18" source="DZIENNIKARZ" target="STAŃCZYK" weight="3" />
+      <edge id="19" source="DZIENNIKARZ" target="POETA" weight="3" />
+      <edge id="20" source="DZIENNIKARZ" target="RADCZYNI" weight="3" />
+      <edge id="21" source="ZOSIA" target="HANECZKA" weight="9" />
+      <edge id="22" source="ZOSIA" target="RADCZYNI" weight="3" />
+      <edge id="23" source="ZOSIA" target="KASPER" weight="6" />
+      <edge id="24" source="ZOSIA" target="GOSPODARZ" weight="3" />
+      <edge id="25" source="ZOSIA" target="STASZEK" weight="3" />
+      <edge id="26" source="ZOSIA" target="PANNA MŁODA" weight="3" />
+      <edge id="27" source="ZOSIA" target="GOSPODYNI" weight="3" />
+      <edge id="28" source="ZOSIA" target="PAN MŁODY" weight="3" />
+      <edge id="29" source="ZOSIA" target="KUBA" weight="3" />
+      <edge id="30" source="ZOSIA" target="POETA" weight="3" />
+      <edge id="31" source="HANECZKA" target="RADCZYNI" weight="3" />
+      <edge id="32" source="HANECZKA" target="JASIEK" weight="6" />
+      <edge id="33" source="HANECZKA" target="PAN MŁODY" weight="6" />
+      <edge id="34" source="HANECZKA" target="GOSPODARZ" weight="3" />
+      <edge id="35" source="HANECZKA" target="KASPER" weight="3" />
+      <edge id="36" source="HANECZKA" target="STASZEK" weight="3" />
+      <edge id="37" source="HANECZKA" target="PANNA MŁODA" weight="3" />
+      <edge id="38" source="HANECZKA" target="GOSPODYNI" weight="3" />
+      <edge id="39" source="HANECZKA" target="KUBA" weight="3" />
+      <edge id="40" source="HANECZKA" target="POETA" weight="3" />
+      <edge id="41" source="RADCZYNI" target="KLIMINA" weight="6" />
+      <edge id="42" source="RADCZYNI" target="MARYNA" weight="3" />
+      <edge id="43" source="RADCZYNI" target="PAN MŁODY" weight="6" />
+      <edge id="44" source="RADCZYNI" target="PANNA MŁODA" weight="3" />
+      <edge id="45" source="KASPER" target="JASIEK" weight="6" />
+      <edge id="46" source="KASPER" target="KASIA" weight="9" />
+      <edge id="47" source="KASPER" target="NOS" weight="3" />
+      <edge id="48" source="KASPER" target="PAN MŁODY" weight="9" />
+      <edge id="49" source="KASPER" target="PANNA MŁODA" weight="6" />
+      <edge id="50" source="KASPER" target="GOSPODYNI" weight="6" />
+      <edge id="51" source="KASPER" target="GOSPODARZ" weight="3" />
+      <edge id="52" source="KASPER" target="STASZEK" weight="3" />
+      <edge id="53" source="KASPER" target="KUBA" weight="3" />
+      <edge id="54" source="KASPER" target="POETA" weight="3" />
+      <edge id="55" source="JASIEK" target="KASIA" weight="3" />
+      <edge id="56" source="JASIEK" target="GOSPODARZ" weight="3" />
+      <edge id="57" source="JASIEK" target="CHOCHOŁ" weight="6" />
+      <edge id="58" source="PANNA MŁODA" target="PAN MŁODY" weight="30" />
+      <edge id="59" source="PANNA MŁODA" target="KSIĄDZ" weight="6" />
+      <edge id="60" source="PANNA MŁODA" target="POETA" weight="15" />
+      <edge id="61" source="PANNA MŁODA" target="GOSPODARZ" weight="6" />
+      <edge id="62" source="PANNA MŁODA" target="NOS" weight="3" />
+      <edge id="63" source="PANNA MŁODA" target="GOSPODYNI" weight="6" />
+      <edge id="64" source="PANNA MŁODA" target="MARYSIA" weight="3" />
+      <edge id="65" source="PANNA MŁODA" target="STASZEK" weight="3" />
+      <edge id="66" source="PANNA MŁODA" target="KUBA" weight="3" />
+      <edge id="67" source="PAN MŁODY" target="KSIĄDZ" weight="9" />
+      <edge id="68" source="PAN MŁODY" target="ŻYD" weight="6" />
+      <edge id="69" source="PAN MŁODY" target="RACHEL" weight="9" />
+      <edge id="70" source="PAN MŁODY" target="POETA" weight="33" />
+      <edge id="71" source="PAN MŁODY" target="GOSPODARZ" weight="18" />
+      <edge id="72" source="PAN MŁODY" target="CHÓR" weight="3" />
+      <edge id="73" source="PAN MŁODY" target="HETMAN" weight="6" />
+      <edge id="74" source="PAN MŁODY" target="DZIAD" weight="3" />
+      <edge id="75" source="PAN MŁODY" target="NOS" weight="3" />
+      <edge id="76" source="PAN MŁODY" target="GOSPODYNI" weight="9" />
+      <edge id="77" source="PAN MŁODY" target="STASZEK" weight="3" />
+      <edge id="78" source="PAN MŁODY" target="KUBA" weight="3" />
+      <edge id="79" source="KSIĄDZ" target="ŻYD" weight="6" />
+      <edge id="80" source="KSIĄDZ" target="GOSPODARZ" weight="3" />
+      <edge id="81" source="MARYNA" target="POETA" weight="9" />
+      <edge id="82" source="POETA" target="RACHEL" weight="15" />
+      <edge id="83" source="POETA" target="GOSPODARZ" weight="24" />
+      <edge id="84" source="POETA" target="OJCIEC" weight="3" />
+      <edge id="85" source="POETA" target="RYCERZ" weight="3" />
+      <edge id="86" source="POETA" target="NOS" weight="3" />
+      <edge id="87" source="POETA" target="GOSPODYNI" weight="12" />
+      <edge id="88" source="POETA" target="STASZEK" weight="3" />
+      <edge id="89" source="POETA" target="KUBA" weight="3" />
+      <edge id="90" source="ŻYD" target="RACHEL" weight="3" />
+      <edge id="91" source="ŻYD" target="DZIAD" weight="3" />
+      <edge id="92" source="GOSPODARZ" target="OJCIEC" weight="3" />
+      <edge id="93" source="GOSPODARZ" target="KUBA" weight="6" />
+      <edge id="94" source="GOSPODARZ" target="GOSPODYNI" weight="27" />
+      <edge id="95" source="GOSPODARZ" target="WERNYHORA" weight="3" />
+      <edge id="96" source="GOSPODARZ" target="STASZEK" weight="6" />
+      <edge id="97" source="GOSPODARZ" target="NOS" weight="3" />
+      <edge id="98" source="OJCIEC" target="DZIAD" weight="3" />
+      <edge id="99" source="OJCIEC" target="MARYSIA" weight="3" />
+      <edge id="100" source="DZIAD" target="UPIÓR" weight="3" />
+      <edge id="101" source="GOSPODYNI" target="ISIA" weight="3" />
+      <edge id="102" source="GOSPODYNI" target="NOS" weight="3" />
+      <edge id="103" source="GOSPODYNI" target="CZEPCOWA" weight="3" />
+      <edge id="104" source="GOSPODYNI" target="STASZEK" weight="3" />
+      <edge id="105" source="GOSPODYNI" target="KUBA" weight="3" />
+      <edge id="106" source="ISIA" target="CHOCHOŁ" weight="3" />
+      <edge id="107" source="MARYSIA" target="WOJTEK" weight="6" />
+      <edge id="108" source="MARYSIA" target="WIDMO" weight="3" />
+      <edge id="109" source="CHÓR" target="HETMAN" weight="6" />
+      <edge id="110" source="KASIA" target="NOS" weight="3" />
+      <edge id="111" source="KUBA" target="STASZEK" weight="3" />
+    </edges>
+  </graph>
+</gexf>

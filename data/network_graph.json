@@ -28,21 +28,21 @@
       }
     },
     {
-      "id": "HANECZKA",
-      "centrality": {
-        "degree": 0.34285714285714286,
-        "betweenness": 0.03897704481490938,
-        "closeness": 0.5645161290322581,
-        "eigenvector": 0.2749765098897613
-      }
-    },
-    {
       "id": "RADCZYNI",
       "centrality": {
         "degree": 0.19999999999999998,
         "betweenness": 0.07460030165912519,
         "closeness": 0.47297297297297297,
         "eigenvector": 0.11655117164611478
+      }
+    },
+    {
+      "id": "HANECZKA",
+      "centrality": {
+        "degree": 0.34285714285714286,
+        "betweenness": 0.03897704481490938,
+        "closeness": 0.5645161290322581,
+        "eigenvector": 0.2749765098897613
       }
     },
     {
@@ -76,9 +76,18 @@
       "id": "PANNA M\u0141ODA",
       "centrality": {
         "degree": 0.39999999999999997,
-        "betweenness": 0.1396131001420176,
+        "betweenness": 0.13961310014201764,
         "closeness": 0.5932203389830508,
         "eigenvector": 0.29408388002920594
+      }
+    },
+    {
+      "id": "KSI\u0104DZ",
+      "centrality": {
+        "degree": 0.14285714285714285,
+        "betweenness": 0.003115913031879419,
+        "closeness": 0.4666666666666667,
+        "eigenvector": 0.11559299141263171
       }
     },
     {
@@ -91,12 +100,12 @@
       }
     },
     {
-      "id": "KSI\u0104DZ",
+      "id": "POETA",
       "centrality": {
-        "degree": 0.14285714285714285,
-        "betweenness": 0.003115913031879419,
-        "closeness": 0.4666666666666667,
-        "eigenvector": 0.1155929914126317
+        "degree": 0.45714285714285713,
+        "betweenness": 0.1542654346806596,
+        "closeness": 0.5932203389830508,
+        "eigenvector": 0.29727876897181177
       }
     },
     {
@@ -106,15 +115,6 @@
         "betweenness": 0.0013181743285549516,
         "closeness": 0.39325842696629215,
         "eigenvector": 0.03721804530779744
-      }
-    },
-    {
-      "id": "POETA",
-      "centrality": {
-        "degree": 0.45714285714285713,
-        "betweenness": 0.1542654346806596,
-        "closeness": 0.5932203389830508,
-        "eigenvector": 0.29727876897181177
       }
     },
     {
@@ -139,7 +139,7 @@
       "id": "GOSPODARZ",
       "centrality": {
         "degree": 0.42857142857142855,
-        "betweenness": 0.10449777195946251,
+        "betweenness": 0.10449777195946253,
         "closeness": 0.5833333333333334,
         "eigenvector": 0.2979987699472547
       }
@@ -163,21 +163,21 @@
       }
     },
     {
-      "id": "GOSPODYNI",
-      "centrality": {
-        "degree": 0.37142857142857144,
-        "betweenness": 0.08453853336206278,
-        "closeness": 0.5645161290322581,
-        "eigenvector": 0.27847448148945286
-      }
-    },
-    {
       "id": "ISIA",
       "centrality": {
         "degree": 0.05714285714285714,
         "betweenness": 0.012064210299504413,
         "closeness": 0.3763440860215054,
         "eigenvector": 0.025918347992758852
+      }
+    },
+    {
+      "id": "GOSPODYNI",
+      "centrality": {
+        "degree": 0.37142857142857144,
+        "betweenness": 0.08453853336206278,
+        "closeness": 0.5645161290322581,
+        "eigenvector": 0.27847448148945286
       }
     },
     {
@@ -235,7 +235,7 @@
       }
     },
     {
-      "id": "CH\u00d3R",
+      "id": "HETMAN",
       "centrality": {
         "degree": 0.05714285714285714,
         "betweenness": 0.0,
@@ -244,7 +244,7 @@
       }
     },
     {
-      "id": "HETMAN",
+      "id": "CH\u00d3R",
       "centrality": {
         "degree": 0.05714285714285714,
         "betweenness": 0.0,
@@ -294,7 +294,7 @@
         "degree": 0.02857142857142857,
         "betweenness": 0.0,
         "closeness": 0.3723404255319149,
-        "eigenvector": 0.026800666425504795
+        "eigenvector": 0.026800666425504802
       }
     },
     {
@@ -332,15 +332,15 @@
     },
     {
       "source": "CZEPIEC",
+      "target": "POETA"
+    },
+    {
+      "source": "CZEPIEC",
       "target": "GOSPODARZ"
     },
     {
       "source": "CZEPIEC",
       "target": "OJCIEC"
-    },
-    {
-      "source": "CZEPIEC",
-      "target": "POETA"
     },
     {
       "source": "CZEPIEC",
@@ -376,6 +376,10 @@
     },
     {
       "source": "CZEPIEC",
+      "target": "HANECZKA"
+    },
+    {
+      "source": "CZEPIEC",
       "target": "KASPER"
     },
     {
@@ -384,15 +388,11 @@
     },
     {
       "source": "CZEPIEC",
-      "target": "PANNA M\u0141ODA"
-    },
-    {
-      "source": "CZEPIEC",
-      "target": "HANECZKA"
-    },
-    {
-      "source": "CZEPIEC",
       "target": "ZOSIA"
+    },
+    {
+      "source": "CZEPIEC",
+      "target": "PANNA M\u0141ODA"
     },
     {
       "source": "DZIENNIKARZ",
@@ -412,14 +412,14 @@
     },
     {
       "source": "ZOSIA",
+      "target": "RADCZYNI"
+    },
+    {
+      "source": "ZOSIA",
       "target": "HANECZKA"
     },
     {
       "source": "ZOSIA",
-      "target": "RADCZYNI"
-    },
-    {
-      "source": "ZOSIA",
       "target": "KASPER"
     },
     {
@@ -428,15 +428,11 @@
     },
     {
       "source": "ZOSIA",
-      "target": "STASZEK"
-    },
-    {
-      "source": "ZOSIA",
-      "target": "PANNA M\u0141ODA"
-    },
-    {
-      "source": "ZOSIA",
       "target": "GOSPODYNI"
+    },
+    {
+      "source": "ZOSIA",
+      "target": "STASZEK"
     },
     {
       "source": "ZOSIA",
@@ -444,51 +440,19 @@
     },
     {
       "source": "ZOSIA",
+      "target": "POETA"
+    },
+    {
+      "source": "ZOSIA",
       "target": "KUBA"
     },
     {
       "source": "ZOSIA",
-      "target": "POETA"
-    },
-    {
-      "source": "HANECZKA",
-      "target": "RADCZYNI"
-    },
-    {
-      "source": "HANECZKA",
-      "target": "JASIEK"
-    },
-    {
-      "source": "HANECZKA",
-      "target": "PAN M\u0141ODY"
-    },
-    {
-      "source": "HANECZKA",
-      "target": "GOSPODARZ"
-    },
-    {
-      "source": "HANECZKA",
-      "target": "KASPER"
-    },
-    {
-      "source": "HANECZKA",
-      "target": "STASZEK"
-    },
-    {
-      "source": "HANECZKA",
       "target": "PANNA M\u0141ODA"
     },
     {
-      "source": "HANECZKA",
-      "target": "GOSPODYNI"
-    },
-    {
-      "source": "HANECZKA",
-      "target": "KUBA"
-    },
-    {
-      "source": "HANECZKA",
-      "target": "POETA"
+      "source": "RADCZYNI",
+      "target": "HANECZKA"
     },
     {
       "source": "RADCZYNI",
@@ -507,6 +471,42 @@
       "target": "PANNA M\u0141ODA"
     },
     {
+      "source": "HANECZKA",
+      "target": "JASIEK"
+    },
+    {
+      "source": "HANECZKA",
+      "target": "PAN M\u0141ODY"
+    },
+    {
+      "source": "HANECZKA",
+      "target": "GOSPODARZ"
+    },
+    {
+      "source": "HANECZKA",
+      "target": "KASPER"
+    },
+    {
+      "source": "HANECZKA",
+      "target": "GOSPODYNI"
+    },
+    {
+      "source": "HANECZKA",
+      "target": "STASZEK"
+    },
+    {
+      "source": "HANECZKA",
+      "target": "POETA"
+    },
+    {
+      "source": "HANECZKA",
+      "target": "KUBA"
+    },
+    {
+      "source": "HANECZKA",
+      "target": "PANNA M\u0141ODA"
+    },
+    {
       "source": "KASPER",
       "target": "JASIEK"
     },
@@ -540,11 +540,11 @@
     },
     {
       "source": "KASPER",
-      "target": "KUBA"
+      "target": "POETA"
     },
     {
       "source": "KASPER",
-      "target": "POETA"
+      "target": "KUBA"
     },
     {
       "source": "JASIEK",
@@ -560,11 +560,11 @@
     },
     {
       "source": "PANNA M\u0141ODA",
-      "target": "PAN M\u0141ODY"
+      "target": "KSI\u0104DZ"
     },
     {
       "source": "PANNA M\u0141ODA",
-      "target": "KSI\u0104DZ"
+      "target": "PAN M\u0141ODY"
     },
     {
       "source": "PANNA M\u0141ODA",
@@ -576,11 +576,11 @@
     },
     {
       "source": "PANNA M\u0141ODA",
-      "target": "NOS"
+      "target": "GOSPODYNI"
     },
     {
       "source": "PANNA M\u0141ODA",
-      "target": "GOSPODYNI"
+      "target": "NOS"
     },
     {
       "source": "PANNA M\u0141ODA",
@@ -595,8 +595,16 @@
       "target": "KUBA"
     },
     {
-      "source": "PAN M\u0141ODY",
-      "target": "KSI\u0104DZ"
+      "source": "KSI\u0104DZ",
+      "target": "PAN M\u0141ODY"
+    },
+    {
+      "source": "KSI\u0104DZ",
+      "target": "\u017bYD"
+    },
+    {
+      "source": "KSI\u0104DZ",
+      "target": "GOSPODARZ"
     },
     {
       "source": "PAN M\u0141ODY",
@@ -616,11 +624,11 @@
     },
     {
       "source": "PAN M\u0141ODY",
-      "target": "CH\u00d3R"
+      "target": "HETMAN"
     },
     {
       "source": "PAN M\u0141ODY",
-      "target": "HETMAN"
+      "target": "CH\u00d3R"
     },
     {
       "source": "PAN M\u0141ODY",
@@ -628,11 +636,11 @@
     },
     {
       "source": "PAN M\u0141ODY",
-      "target": "NOS"
+      "target": "GOSPODYNI"
     },
     {
       "source": "PAN M\u0141ODY",
-      "target": "GOSPODYNI"
+      "target": "NOS"
     },
     {
       "source": "PAN M\u0141ODY",
@@ -643,16 +651,8 @@
       "target": "KUBA"
     },
     {
-      "source": "KSI\u0104DZ",
-      "target": "\u017bYD"
-    },
-    {
-      "source": "KSI\u0104DZ",
-      "target": "GOSPODARZ"
-    },
-    {
-      "source": "MARYNA",
-      "target": "POETA"
+      "source": "POETA",
+      "target": "MARYNA"
     },
     {
       "source": "POETA",
@@ -672,11 +672,11 @@
     },
     {
       "source": "POETA",
-      "target": "NOS"
+      "target": "GOSPODYNI"
     },
     {
       "source": "POETA",
-      "target": "GOSPODYNI"
+      "target": "NOS"
     },
     {
       "source": "POETA",
@@ -731,8 +731,12 @@
       "target": "UPI\u00d3R"
     },
     {
-      "source": "GOSPODYNI",
-      "target": "ISIA"
+      "source": "ISIA",
+      "target": "GOSPODYNI"
+    },
+    {
+      "source": "ISIA",
+      "target": "CHOCHO\u0141"
     },
     {
       "source": "GOSPODYNI",
@@ -751,10 +755,6 @@
       "target": "KUBA"
     },
     {
-      "source": "ISIA",
-      "target": "CHOCHO\u0141"
-    },
-    {
       "source": "MARYSIA",
       "target": "WOJTEK"
     },
@@ -763,8 +763,8 @@
       "target": "WIDMO"
     },
     {
-      "source": "CH\u00d3R",
-      "target": "HETMAN"
+      "source": "HETMAN",
+      "target": "CH\u00d3R"
     },
     {
       "source": "KASIA",
